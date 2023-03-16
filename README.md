@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=gradient&)
-<h1 align="center">I'm daaa0 ^~^</h1>
-<h3 align="center">web design, web publishing</h3>
+<h1 align="right">I'm daaa0 ^~^</h1>
+<p align="right">적당히 아주 잘</p>
 
 - 🌱 I’m currently learning **TypeScript, React, NodeJS, DataBass**
 

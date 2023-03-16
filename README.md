@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?=fadeIn&type=waving&color=auto)
+![header](https://capsule-render.vercel.app/api?=fadeIn&type=waving&color=timeGradient)
 <h1 align="center">I'm daaa0 ^~^</h1>
 <h3 align="center">web design, web publishing</h3>
 
